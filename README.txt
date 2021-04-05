@@ -9,3 +9,8 @@ this is one of my very first batch projects so excuse the bloat (it's not pretty
 The icon was created in GIMP (https://www.gimp.org/)
 
 anyway, never had to make a README before so uhh... have a nice day!
+
+
+EDIT:
+
+if the program gives out an error, ensure hibernation is eanbled: in the command prompt type: powercfg /hibernate on
